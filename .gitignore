@@ -1,0 +1,15 @@
+# Compiled files
+bin/
+*.class
+
+# Eclipse / IDE files
+.metadata/
+.project
+.classpath
+.settings/
+
+# Logs
+*.log
+
+# Config (if contains passwords)
+config.properties
